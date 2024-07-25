@@ -15,7 +15,7 @@ This project focuses on sentiment analysis of student feedback in engineering ed
 - Conclusions
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/Abdulraqib20/Sentiment-Analysis-with-Student-Feedback.git`
+1. Clone the repository: `https://github.com/ShadanAnwar/Comprehensive-Sentiment-Analysis-App-with-Streamlit-and-BERT.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
